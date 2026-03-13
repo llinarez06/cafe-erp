@@ -2,7 +2,7 @@ import React from 'react';
 
 const DashboardCafe = () => {
   return (
-    <div className="min-h-screen bg-gray-50 p-8 font-sans">
+    <div className="bg-gray-50 pt-8 px-8 font-sans">
       <header className="mb-8">
         <h1 className="text-3xl font-bold text-gray-800">Panel de Control: Exportadora de Café</h1>
         <p className="text-gray-500">Resumen operativo y financiero del día</p>
